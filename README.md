@@ -18,7 +18,7 @@ The `scraping` notebook contains all code used to scrape images, while the `crea
 
 Finally, while the first training run was conducted on the scraped images, incremental training was performed using an augmented dataset to improve performance. To augment the dataset, AWS SageMaker's Data Wrangler was applied to resize, shift up or down, blur, add noise, or rotate original images at varying degrees.
 
-<img src="media/data_wrangler.png">
+<img src="media/data_wrangler.PNG">
 
 ## Results
 
